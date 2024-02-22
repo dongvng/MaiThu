@@ -40,7 +40,7 @@ body {
   height: 400px;
   margin: 20px;
   border-radius: 12px;
-  margin-top: 120px;
+  margin-top: 40px;
 }
 img {
   width: 100%;
@@ -88,7 +88,7 @@ a {
   left: 0;
   right: 0;
   top: 0;
-  bottom: 300px;
+  bottom: 150px;
   width: 100px;
   height: 100px;
   animation: rotate 5s ease-in-out infinite;
